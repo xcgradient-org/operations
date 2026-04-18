@@ -1,0 +1,4 @@
+# Graphify cache — SHA256 hashes, do not commit
+graphify-out/cache/
+graph-builder/__pycache__/
+scripts/__pycache__/

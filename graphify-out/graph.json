@@ -1,0 +1,3247 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "hyperedges": []
+  },
+  "nodes": [
+    {
+      "label": "XC Gradient",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/notion-system.md",
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 3,
+      "description": "Early-stage B2B industrial SaaS company building private AI systems for European manufacturing SMEs.",
+      "type": "org-unit",
+      "mentions": 3,
+      "community": 1,
+      "id": "xc-gradient",
+      "norm_label": "xc gradient"
+    },
+    {
+      "label": "Executive Office",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/README.md",
+      "source_files": [
+        "internal/01_executive_ceo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Executive planning area covering strategic vision, board updates, and the master roadmap.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 1,
+      "id": "executive-office",
+      "norm_label": "executive office"
+    },
+    {
+      "label": "Operations (COO)",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/README.md",
+      "source_files": [
+        "internal/03_operations_coo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Operations domain covering systems, platform configuration, and workspace setup.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 1,
+      "id": "operations-coo",
+      "norm_label": "operations (coo)"
+    },
+    {
+      "label": "Technical (CTO)",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/README.md",
+      "source_files": [
+        "internal/02_technical_cto/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for architecture, engineering standards, and security.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 4,
+      "id": "technical-cto",
+      "norm_label": "technical (cto)"
+    },
+    {
+      "label": "Financial (CFO)",
+      "file_type": "document",
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for fundraising, the data room, and fiscal health.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 1,
+      "id": "financial-cfo",
+      "norm_label": "financial (cfo)"
+    },
+    {
+      "label": "Legal (CLO)",
+      "file_type": "document",
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for contracts, intellectual property, and corporate compliance.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 5,
+      "id": "legal-clo",
+      "norm_label": "legal (clo)"
+    },
+    {
+      "label": "Marketing (CMO)",
+      "file_type": "document",
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for brand identity, collateral, and market research.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 6,
+      "id": "marketing-cmo",
+      "norm_label": "marketing (cmo)"
+    },
+    {
+      "label": "Sales (CRO)",
+      "file_type": "document",
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for leads, partnerships, and revenue models.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 7,
+      "id": "sales-cro",
+      "norm_label": "sales (cro)"
+    },
+    {
+      "label": "HR & People",
+      "file_type": "document",
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "description": "Function responsible for talent, culture, and onboarding.",
+      "type": "org-unit",
+      "mentions": 1,
+      "community": 8,
+      "id": "hr-people",
+      "norm_label": "hr & people"
+    },
+    {
+      "label": "Oriol Farr\u00e9s i Vilar",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 2,
+      "description": "CEO/CFO and founder; owns company strategy, Notion structure, client relationships, and thesis-to-product translation.",
+      "type": "person",
+      "mentions": 2,
+      "community": 1,
+      "id": "oriol-farres-i-vilar",
+      "norm_label": "oriol farres i vilar"
+    },
+    {
+      "label": "Arnau Noguer",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 2,
+      "description": "CTO/AI and founder; owns the RAG pipeline, ontology layer, and deployment runbook.",
+      "type": "person",
+      "mentions": 2,
+      "community": 4,
+      "id": "arnau-noguer",
+      "norm_label": "arnau noguer"
+    },
+    {
+      "label": "Adam Sarrate",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 2,
+      "description": "COO/CISO and founder; owns topology, security architecture, and client deployment conversations.",
+      "type": "person",
+      "mentions": 2,
+      "community": 1,
+      "id": "adam-sarrate",
+      "norm_label": "adam sarrate"
+    },
+    {
+      "label": "Dr. Llu\u00eds Padr\u00f3",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "UPC-FIB supervisor for the master's thesis that formalizes XC Gradient's core technical IP.",
+      "type": "person",
+      "mentions": 1,
+      "community": 3,
+      "id": "lluis-padro",
+      "norm_label": "dr. lluis padro"
+    },
+    {
+      "label": "Xavier Vera",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "CEO contact at Paver during the PoC demo stage.",
+      "type": "person",
+      "mentions": 1,
+      "community": 0,
+      "id": "xavier-vera",
+      "norm_label": "xavier vera"
+    },
+    {
+      "label": "European Manufacturing SMEs",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 2,
+      "description": "Primary customer segment: 20-200 employee industrial SMEs underserved by enterprise software vendors.",
+      "type": "concept",
+      "mentions": 2,
+      "community": 1,
+      "id": "european-manufacturing-smes",
+      "norm_label": "european manufacturing smes"
+    },
+    {
+      "label": "Invisible Operational Knowledge",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Operational knowledge trapped in manuals, logs, PDFs, and technician memory rather than searchable systems.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 1,
+      "id": "invisible-operational-knowledge",
+      "norm_label": "invisible operational knowledge"
+    },
+    {
+      "label": "Product Vision",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Make fragmented manufacturing knowledge visible and actionable through private AI, real-time OEE visibility, and near-zero diagnosis time.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 1,
+      "id": "product-vision",
+      "norm_label": "product vision"
+    },
+    {
+      "label": "Depth-First SME Entry",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Go-to-market strategy of entering one department deeply, proving value, then expanding inside the plant.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 1,
+      "id": "depth-first-sme-entry",
+      "norm_label": "depth-first sme entry"
+    },
+    {
+      "label": "Bootstrap-First Funding Strategy",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Remain self-funded until major customer traction, with a Seed round planned after 100+ paying clients.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 1,
+      "id": "bootstrap-first-funding-strategy",
+      "norm_label": "bootstrap-first funding strategy"
+    },
+    {
+      "label": "Proof-of-Concept Phase",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/pitch.md",
+      "source_files": [
+        "internal/01_executive_ceo/pitch.md"
+      ],
+      "source_count": 1,
+      "description": "Current operating phase focused on pilot implementations, validation, and learning before broader rollout.",
+      "type": "phase",
+      "mentions": 1,
+      "community": 1,
+      "id": "proof-of-concept-phase",
+      "norm_label": "proof-of-concept phase"
+    },
+    {
+      "label": "2026 Annual Goal",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Constitute XC Gradient with 10 paying clients by Q4 2026.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 3,
+      "id": "annual-goal-2026",
+      "norm_label": "2026 annual goal"
+    },
+    {
+      "label": "Q2 2026 OKRs",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Quarterly objectives focused on proving the product on real industrial data.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 3,
+      "id": "q2-2026-okrs",
+      "norm_label": "q2 2026 okrs"
+    },
+    {
+      "label": "Phase 0: Ignition",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Initial readiness phase focused on installing the operating system and defining the demo scope.",
+      "type": "phase",
+      "mentions": 1,
+      "community": 0,
+      "id": "phase-0-ignition",
+      "norm_label": "phase 0: ignition"
+    },
+    {
+      "label": "Phase 1: PoC Execution",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Execution phase focused on producing measurable client outcomes.",
+      "type": "phase",
+      "mentions": 1,
+      "community": 0,
+      "id": "phase-1-poc-execution",
+      "norm_label": "phase 1: poc execution"
+    },
+    {
+      "label": "Phase 2: Pipeline Building",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Commercial phase focused on securing commitments before legal constitution.",
+      "type": "phase",
+      "mentions": 1,
+      "community": 3,
+      "id": "phase-2-pipeline-building",
+      "norm_label": "phase 2: pipeline building"
+    },
+    {
+      "label": "Phase 3: Constitution + Launch",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Launch phase focused on becoming a constituted company with paying clients and growing ARR.",
+      "type": "phase",
+      "mentions": 1,
+      "community": 3,
+      "id": "phase-3-constitution-launch",
+      "norm_label": "phase 3: constitution + launch"
+    },
+    {
+      "label": "A Score",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Measured RAG performance metric used to validate PoC quality on client corpora.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 0,
+      "id": "a-score",
+      "norm_label": "a score"
+    },
+    {
+      "label": "Pipeline Conversations per Week",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Pre-revenue growth metric for qualified customer conversations.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 3,
+      "id": "pipeline-conversations-per-week",
+      "norm_label": "pipeline conversations per week"
+    },
+    {
+      "label": "LOI Count",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Number of LOIs or verbal commitments used as the Phase 2 north star.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 2,
+      "id": "loi-count",
+      "norm_label": "loi count"
+    },
+    {
+      "label": "ARR",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Primary growth metric for the real-company launch phase.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 3,
+      "id": "arr",
+      "norm_label": "arr"
+    },
+    {
+      "label": "Company Constitution",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Legal incorporation milestone required for formal launch.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 3,
+      "id": "company-constitution",
+      "norm_label": "company constitution"
+    },
+    {
+      "label": "Thesis Defense",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Academic milestone used as a credibility asset and builder-to-seller phase gate.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 3,
+      "id": "thesis-defense",
+      "norm_label": "thesis defense"
+    },
+    {
+      "label": "NEON",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Active Q2 cross-founder project for PoC delivery and pipeline development.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 3,
+      "id": "neon",
+      "norm_label": "neon"
+    },
+    {
+      "label": "CORE",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Permanent operations and administration project bucket outside NEON scope.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 2,
+      "id": "core-project",
+      "norm_label": "core"
+    },
+    {
+      "label": "Notion OS",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md",
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 2,
+      "description": "XC Gradient's Notion workspace, the structured operating system and long-term source of truth for planning and knowledge.",
+      "type": "system",
+      "mentions": 2,
+      "community": 2,
+      "id": "notion-os",
+      "norm_label": "notion os"
+    },
+    {
+      "label": "Discord",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Ephemeral working-memory tool used for daily communication and bot interaction.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "discord",
+      "norm_label": "discord"
+    },
+    {
+      "label": "Drive",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Binary storage layer for presentations, contracts, invoices, and large files.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "drive",
+      "norm_label": "drive"
+    },
+    {
+      "label": "Discord /update Bot",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Daily founder interface for task completion, tomorrow planning, milestone adjustment, and Notion writes.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "discord-update-bot",
+      "norm_label": "discord /update bot"
+    },
+    {
+      "label": "Notion Polling Daemon",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Background automation that polls Notion and reacts to changes in tasks, decisions, pipeline, and finance.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "notion-polling-daemon",
+      "norm_label": "notion polling daemon"
+    },
+    {
+      "label": "Decision Log",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Permanent record of significant company decisions.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "decision-log",
+      "norm_label": "decision log"
+    },
+    {
+      "label": "PoC Pipeline",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Pipeline database tracking prospective clients from identification to paying customer.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "poc-pipeline",
+      "norm_label": "poc pipeline"
+    },
+    {
+      "label": "Execution Log",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Append-only operational log written by the bot for daily execution and milestone progress.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "execution-log",
+      "norm_label": "execution log"
+    },
+    {
+      "label": "Company Calendar",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "description": "Shared company calendar for milestones, meetings, and external deadlines relevant to all founders.",
+      "type": "system",
+      "mentions": 1,
+      "community": 2,
+      "id": "company-calendar",
+      "norm_label": "company calendar"
+    },
+    {
+      "label": "Private AI Knowledge Layer",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Core product layer embedded into client workflows to turn plant knowledge into private, actionable answers and insights.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "private-ai-knowledge-layer",
+      "norm_label": "private ai knowledge layer"
+    },
+    {
+      "label": "Private Client Container",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Per-client isolated data container used for ingestion, retrieval, and local inference without shared data exposure.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "private-client-container",
+      "norm_label": "private client container"
+    },
+    {
+      "label": "Client Data Sovereignty",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Client manufacturing data stays isolated and is never sent to external AI providers.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 1,
+      "id": "client-data-sovereignty",
+      "norm_label": "client data sovereignty"
+    },
+    {
+      "label": "Real-Time OEE Dashboard",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Interactive plant map showing per-machine OEE with breakdown by availability, efficiency, and quality.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "real-time-oee-dashboard",
+      "norm_label": "real-time oee dashboard"
+    },
+    {
+      "label": "RAG Pipeline",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md",
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 2,
+      "description": "Core retrieval and diagnosis system used for PoCs and industrial knowledge access on client corpora.",
+      "type": "system",
+      "mentions": 2,
+      "community": 0,
+      "id": "rag-pipeline",
+      "norm_label": "rag pipeline"
+    },
+    {
+      "label": "Unstructured-to-Structured Data Pipeline",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Ingestion and indexing pipeline that converts legacy documents and logs into searchable operational knowledge.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "unstructured-to-structured-data-pipeline",
+      "norm_label": "unstructured-to-structured data pipeline"
+    },
+    {
+      "label": "Automated Machine State Reporting",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "System for generating maintenance, condition, and OEE trend reports on demand or on schedule.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "automated-machine-state-reporting",
+      "norm_label": "automated machine state reporting"
+    },
+    {
+      "label": "LLM-Assisted Error Documentation",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Conversational workflow that turns technician incident resolution into correctly formatted maintenance records.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "llm-assisted-error-documentation",
+      "norm_label": "llm-assisted error documentation"
+    },
+    {
+      "label": "Overall Equipment Effectiveness (OEE)",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Core plant performance metric broken into availability, efficiency, and quality.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 0,
+      "id": "oee",
+      "norm_label": "overall equipment effectiveness (oee)"
+    },
+    {
+      "label": "Mean Time to Repair (MTTR)",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Downtime metric dominated by diagnosis time in the target SME context.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 0,
+      "id": "mttr",
+      "norm_label": "mean time to repair (mttr)"
+    },
+    {
+      "label": "Domain Ontology",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Manufacturing-domain ontology that maps machine types, failure modes, and parameter families inside each client account.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "domain-ontology",
+      "norm_label": "domain ontology"
+    },
+    {
+      "label": "Per-Client Vector Store",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Isolated retrieval index for each client account.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "per-client-vector-store",
+      "norm_label": "per-client vector store"
+    },
+    {
+      "label": "Local LLM Inference",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "On-prem inference layer that answers industrial questions without external API calls.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "local-llm-inference",
+      "norm_label": "local llm inference"
+    },
+    {
+      "label": "Markov + Choquet Reranking",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Post-retrieval optimization method that ranks candidate context windows using a Markov chain and Choquet integral.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "markov-choquet-reranking",
+      "norm_label": "markov + choquet reranking"
+    },
+    {
+      "label": "S-QDoRA",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Sparse Quantized DoRA fine-tuning method for client-specific adaptation on a shared quantized base model.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "s-qdora",
+      "norm_label": "s-qdora"
+    },
+    {
+      "label": "Speculative Decoding",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Latency optimization technique that uses a draft model to accelerate target-model generation.",
+      "type": "system",
+      "mentions": 1,
+      "community": 0,
+      "id": "speculative-decoding",
+      "norm_label": "speculative decoding"
+    },
+    {
+      "label": "On-Prem Deployment Runbook",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Installable deployment guide for client sites, including hardware requirements, private container setup, and integrations.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "on-prem-deployment-runbook",
+      "norm_label": "on-prem deployment runbook"
+    },
+    {
+      "label": "XCGradient Infrastructure OS",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Source-of-truth document and operating model for standardized infrastructure.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "xcgradient-infrastructure-os",
+      "norm_label": "xcgradient infrastructure os"
+    },
+    {
+      "label": "Brand Assets Repository",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Central repository for logos, colors, fonts, and other branding assets.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "brand-assets-repo",
+      "norm_label": "brand assets repository"
+    },
+    {
+      "label": "Docker Standard",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Requirement that every internal tool be containerized for production readiness.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "docker-standard",
+      "norm_label": "docker standard"
+    },
+    {
+      "label": "CI/CD Pipeline",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Automated testing and linting gate for merges to main.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "ci-cd-pipeline",
+      "norm_label": "ci/cd pipeline"
+    },
+    {
+      "label": "GitHub Container Registry",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Registry used to host production container images.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "ghcr",
+      "norm_label": "github container registry"
+    },
+    {
+      "label": "XCG Bot",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Discord AI operations service maintained as an internal tool.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "xcg-bot",
+      "norm_label": "xcg bot"
+    },
+    {
+      "label": "Hardware Management",
+      "file_type": "document",
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "description": "Hardware health monitoring service.",
+      "type": "system",
+      "mentions": 1,
+      "community": 4,
+      "id": "hw-management",
+      "norm_label": "hardware management"
+    },
+    {
+      "label": "Decfa PoC",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Precision turning / CNC machining PoC used to validate diagnosis and RAG performance on real industrial data.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 0,
+      "id": "decfa-poc",
+      "norm_label": "decfa poc"
+    },
+    {
+      "label": "Paver PoC",
+      "file_type": "document",
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "description": "Production-plant PoC focused on OEE visibility, knowledge access, and maintenance documentation.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 0,
+      "id": "paver-poc",
+      "norm_label": "paver poc"
+    },
+    {
+      "label": "NIS2 Compliance Checklist",
+      "file_type": "document",
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "description": "Draft compliance asset used in security and sales conversations.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 1,
+      "id": "nis2-compliance-checklist",
+      "norm_label": "nis2 compliance checklist"
+    },
+    {
+      "label": "Fundraising",
+      "file_type": "document",
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Capital-raising activities and investor process management.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 1,
+      "id": "fundraising",
+      "norm_label": "fundraising"
+    },
+    {
+      "label": "Data Room",
+      "file_type": "document",
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Repository of company materials for financing and diligence.",
+      "type": "system",
+      "mentions": 1,
+      "community": 1,
+      "id": "data-room",
+      "norm_label": "data room"
+    },
+    {
+      "label": "Fiscal Health",
+      "file_type": "document",
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Financial condition and sustainability of the company.",
+      "type": "metric",
+      "mentions": 1,
+      "community": 1,
+      "id": "fiscal-health",
+      "norm_label": "fiscal health"
+    },
+    {
+      "label": "Contracts",
+      "file_type": "document",
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Commercial and operational agreements managed by legal.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 5,
+      "id": "contracts",
+      "norm_label": "contracts"
+    },
+    {
+      "label": "Intellectual Property",
+      "file_type": "document",
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Protection and governance of company IP.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 5,
+      "id": "intellectual-property",
+      "norm_label": "intellectual property"
+    },
+    {
+      "label": "Corporate Compliance",
+      "file_type": "document",
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Corporate legal and compliance obligations.",
+      "type": "legal",
+      "mentions": 1,
+      "community": 5,
+      "id": "corporate-compliance",
+      "norm_label": "corporate compliance"
+    },
+    {
+      "label": "Brand Identity",
+      "file_type": "document",
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Definition and stewardship of the company brand.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 6,
+      "id": "brand-identity",
+      "norm_label": "brand identity"
+    },
+    {
+      "label": "Collateral",
+      "file_type": "document",
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Marketing and sales-support materials.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 6,
+      "id": "collateral",
+      "norm_label": "collateral"
+    },
+    {
+      "label": "Market Research",
+      "file_type": "document",
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "description": "Research into market conditions, segments, and positioning.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 6,
+      "id": "market-research",
+      "norm_label": "market research"
+    },
+    {
+      "label": "Leads",
+      "file_type": "document",
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "description": "Prospective customers and lead pipeline inputs.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 7,
+      "id": "leads",
+      "norm_label": "leads"
+    },
+    {
+      "label": "Partnerships",
+      "file_type": "document",
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "description": "Channel, strategic, or commercial partnerships.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 7,
+      "id": "partnerships",
+      "norm_label": "partnerships"
+    },
+    {
+      "label": "Revenue Models",
+      "file_type": "document",
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "description": "Commercial monetization structures for XC Gradient's product and services.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 7,
+      "id": "revenue-models",
+      "norm_label": "revenue models"
+    },
+    {
+      "label": "Talent",
+      "file_type": "document",
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "description": "Hiring and talent development responsibilities.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 8,
+      "id": "talent",
+      "norm_label": "talent"
+    },
+    {
+      "label": "Culture",
+      "file_type": "document",
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "description": "Organizational culture and people practices.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 8,
+      "id": "culture",
+      "norm_label": "culture"
+    },
+    {
+      "label": "Onboarding",
+      "file_type": "document",
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "description": "Employee onboarding process and enablement.",
+      "type": "concept",
+      "mentions": 1,
+      "community": 8,
+      "id": "onboarding",
+      "norm_label": "onboarding"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/README.md",
+      "source_files": [
+        "internal/01_executive_ceo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "executive-office",
+      "source": "xc-gradient",
+      "target": "executive-office"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/README.md",
+      "source_files": [
+        "internal/03_operations_coo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "operations-coo",
+      "source": "xc-gradient",
+      "target": "operations-coo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/README.md",
+      "source_files": [
+        "internal/02_technical_cto/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "technical-cto",
+      "source": "xc-gradient",
+      "target": "technical-cto"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "financial-cfo",
+      "source": "xc-gradient",
+      "target": "financial-cfo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "legal-clo",
+      "source": "xc-gradient",
+      "target": "legal-clo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "marketing-cmo",
+      "source": "xc-gradient",
+      "target": "marketing-cmo"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "sales-cro",
+      "source": "xc-gradient",
+      "target": "sales-cro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "hr-people",
+      "source": "xc-gradient",
+      "target": "hr-people"
+    },
+    {
+      "relation": "leads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "oriol-farres-i-vilar",
+      "_tgt": "xc-gradient",
+      "source": "xc-gradient",
+      "target": "oriol-farres-i-vilar"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "european-manufacturing-smes",
+      "source": "xc-gradient",
+      "target": "european-manufacturing-smes"
+    },
+    {
+      "relation": "addresses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "invisible-operational-knowledge",
+      "source": "xc-gradient",
+      "target": "invisible-operational-knowledge"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "product-vision",
+      "source": "xc-gradient",
+      "target": "product-vision"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "depth-first-sme-entry",
+      "source": "xc-gradient",
+      "target": "depth-first-sme-entry"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "bootstrap-first-funding-strategy",
+      "source": "xc-gradient",
+      "target": "bootstrap-first-funding-strategy"
+    },
+    {
+      "relation": "operates-in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/pitch.md",
+      "source_files": [
+        "internal/01_executive_ceo/pitch.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "proof-of-concept-phase",
+      "source": "xc-gradient",
+      "target": "proof-of-concept-phase"
+    },
+    {
+      "relation": "builds",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "private-ai-knowledge-layer",
+      "source": "xc-gradient",
+      "target": "private-ai-knowledge-layer"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "notion-os",
+      "source": "xc-gradient",
+      "target": "notion-os"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "discord",
+      "source": "xc-gradient",
+      "target": "discord"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xc-gradient",
+      "_tgt": "drive",
+      "source": "xc-gradient",
+      "target": "drive"
+    },
+    {
+      "relation": "leads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "oriol-farres-i-vilar",
+      "_tgt": "executive-office",
+      "source": "executive-office",
+      "target": "oriol-farres-i-vilar"
+    },
+    {
+      "relation": "leads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "adam-sarrate",
+      "_tgt": "operations-coo",
+      "source": "operations-coo",
+      "target": "adam-sarrate"
+    },
+    {
+      "relation": "leads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "arnau-noguer",
+      "_tgt": "technical-cto",
+      "source": "technical-cto",
+      "target": "arnau-noguer"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "technical-cto",
+      "_tgt": "xcgradient-infrastructure-os",
+      "source": "technical-cto",
+      "target": "xcgradient-infrastructure-os"
+    },
+    {
+      "relation": "leads",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "oriol-farres-i-vilar",
+      "_tgt": "financial-cfo",
+      "source": "financial-cfo",
+      "target": "oriol-farres-i-vilar"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "financial-cfo",
+      "_tgt": "fundraising",
+      "source": "financial-cfo",
+      "target": "fundraising"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "financial-cfo",
+      "_tgt": "data-room",
+      "source": "financial-cfo",
+      "target": "data-room"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/04_financial_cfo/README.md",
+      "source_files": [
+        "internal/04_financial_cfo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "financial-cfo",
+      "_tgt": "fiscal-health",
+      "source": "financial-cfo",
+      "target": "fiscal-health"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "legal-clo",
+      "_tgt": "contracts",
+      "source": "legal-clo",
+      "target": "contracts"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "legal-clo",
+      "_tgt": "intellectual-property",
+      "source": "legal-clo",
+      "target": "intellectual-property"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/05_legal_clo/README.md",
+      "source_files": [
+        "internal/05_legal_clo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "legal-clo",
+      "_tgt": "corporate-compliance",
+      "source": "legal-clo",
+      "target": "corporate-compliance"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "marketing-cmo",
+      "_tgt": "brand-identity",
+      "source": "marketing-cmo",
+      "target": "brand-identity"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "marketing-cmo",
+      "_tgt": "collateral",
+      "source": "marketing-cmo",
+      "target": "collateral"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/06_marketing_cmo/README.md",
+      "source_files": [
+        "internal/06_marketing_cmo/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "marketing-cmo",
+      "_tgt": "market-research",
+      "source": "marketing-cmo",
+      "target": "market-research"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "sales-cro",
+      "_tgt": "leads",
+      "source": "sales-cro",
+      "target": "leads"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "sales-cro",
+      "_tgt": "partnerships",
+      "source": "sales-cro",
+      "target": "partnerships"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/07_sales_cro/README.md",
+      "source_files": [
+        "internal/07_sales_cro/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "sales-cro",
+      "_tgt": "revenue-models",
+      "source": "sales-cro",
+      "target": "revenue-models"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "weight": 0.65,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "sales-cro",
+      "_tgt": "poc-pipeline",
+      "source": "sales-cro",
+      "target": "poc-pipeline"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "weight": 0.65,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "sales-cro",
+      "_tgt": "pipeline-conversations-per-week",
+      "source": "sales-cro",
+      "target": "pipeline-conversations-per-week"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "hr-people",
+      "_tgt": "talent",
+      "source": "hr-people",
+      "target": "talent"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "hr-people",
+      "_tgt": "culture",
+      "source": "hr-people",
+      "target": "culture"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/08_hr_people/README.md",
+      "source_files": [
+        "internal/08_hr_people/README.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "hr-people",
+      "_tgt": "onboarding",
+      "source": "hr-people",
+      "target": "onboarding"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "oriol-farres-i-vilar",
+      "_tgt": "notion-os",
+      "source": "oriol-farres-i-vilar",
+      "target": "notion-os"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "arnau-noguer",
+      "_tgt": "rag-pipeline",
+      "source": "arnau-noguer",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "arnau-noguer",
+      "_tgt": "on-prem-deployment-runbook",
+      "source": "arnau-noguer",
+      "target": "on-prem-deployment-runbook"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "adam-sarrate",
+      "_tgt": "client-data-sovereignty",
+      "source": "adam-sarrate",
+      "target": "client-data-sovereignty"
+    },
+    {
+      "relation": "owns",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "adam-sarrate",
+      "_tgt": "nis2-compliance-checklist",
+      "source": "adam-sarrate",
+      "target": "nis2-compliance-checklist"
+    },
+    {
+      "relation": "supervises",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "lluis-padro",
+      "_tgt": "thesis-defense",
+      "source": "lluis-padro",
+      "target": "thesis-defense"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "paver-poc",
+      "_tgt": "xavier-vera",
+      "source": "xavier-vera",
+      "target": "paver-poc"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "depth-first-sme-entry",
+      "_tgt": "european-manufacturing-smes",
+      "source": "european-manufacturing-smes",
+      "target": "depth-first-sme-entry"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "european-manufacturing-smes",
+      "source": "european-manufacturing-smes",
+      "target": "product-vision"
+    },
+    {
+      "relation": "addresses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "invisible-operational-knowledge",
+      "source": "invisible-operational-knowledge",
+      "target": "product-vision"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "private-ai-knowledge-layer",
+      "source": "product-vision",
+      "target": "private-ai-knowledge-layer"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "real-time-oee-dashboard",
+      "source": "product-vision",
+      "target": "real-time-oee-dashboard"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "rag-pipeline",
+      "source": "product-vision",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "product-vision",
+      "_tgt": "client-data-sovereignty",
+      "source": "product-vision",
+      "target": "client-data-sovereignty"
+    },
+    {
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "annual-goal-2026",
+      "_tgt": "q2-2026-okrs",
+      "source": "annual-goal-2026",
+      "target": "q2-2026-okrs"
+    },
+    {
+      "relation": "serves",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "neon",
+      "_tgt": "q2-2026-okrs",
+      "source": "q2-2026-okrs",
+      "target": "neon"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "q2-2026-okrs",
+      "_tgt": "a-score",
+      "source": "q2-2026-okrs",
+      "target": "a-score"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "q2-2026-okrs",
+      "_tgt": "pipeline-conversations-per-week",
+      "source": "q2-2026-okrs",
+      "target": "pipeline-conversations-per-week"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "q2-2026-okrs",
+      "_tgt": "thesis-defense",
+      "source": "q2-2026-okrs",
+      "target": "thesis-defense"
+    },
+    {
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-0-ignition",
+      "_tgt": "phase-1-poc-execution",
+      "source": "phase-0-ignition",
+      "target": "phase-1-poc-execution"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-0-ignition",
+      "_tgt": "notion-os",
+      "source": "phase-0-ignition",
+      "target": "notion-os"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-0-ignition",
+      "_tgt": "rag-pipeline",
+      "source": "phase-0-ignition",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-1-poc-execution",
+      "_tgt": "phase-2-pipeline-building",
+      "source": "phase-1-poc-execution",
+      "target": "phase-2-pipeline-building"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-1-poc-execution",
+      "_tgt": "a-score",
+      "source": "phase-1-poc-execution",
+      "target": "a-score"
+    },
+    {
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-1-poc-execution",
+      "_tgt": "decfa-poc",
+      "source": "phase-1-poc-execution",
+      "target": "decfa-poc"
+    },
+    {
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-1-poc-execution",
+      "_tgt": "paver-poc",
+      "source": "phase-1-poc-execution",
+      "target": "paver-poc"
+    },
+    {
+      "relation": "precedes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-2-pipeline-building",
+      "_tgt": "phase-3-constitution-launch",
+      "source": "phase-2-pipeline-building",
+      "target": "phase-3-constitution-launch"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-2-pipeline-building",
+      "_tgt": "loi-count",
+      "source": "phase-2-pipeline-building",
+      "target": "loi-count"
+    },
+    {
+      "relation": "enables",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "thesis-defense",
+      "_tgt": "phase-2-pipeline-building",
+      "source": "phase-2-pipeline-building",
+      "target": "thesis-defense"
+    },
+    {
+      "relation": "targets",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-3-constitution-launch",
+      "_tgt": "arr",
+      "source": "phase-3-constitution-launch",
+      "target": "arr"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "phase-3-constitution-launch",
+      "_tgt": "company-constitution",
+      "source": "phase-3-constitution-launch",
+      "target": "company-constitution"
+    },
+    {
+      "relation": "measured-by",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "a-score",
+      "source": "a-score",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "measures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "decfa-poc",
+      "_tgt": "a-score",
+      "source": "a-score",
+      "target": "decfa-poc"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "weight": 0.65,
+      "source_file": "internal/03_operations_coo/platform/planning-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/planning-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "poc-pipeline",
+      "_tgt": "pipeline-conversations-per-week",
+      "source": "pipeline-conversations-per-week",
+      "target": "poc-pipeline"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "poc-pipeline",
+      "_tgt": "loi-count",
+      "source": "loi-count",
+      "target": "poc-pipeline"
+    },
+    {
+      "relation": "supports",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "core-project",
+      "_tgt": "notion-os",
+      "source": "core-project",
+      "target": "notion-os"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "discord",
+      "source": "notion-os",
+      "target": "discord"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "drive",
+      "source": "notion-os",
+      "target": "drive"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "decision-log",
+      "source": "notion-os",
+      "target": "decision-log"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "poc-pipeline",
+      "source": "notion-os",
+      "target": "poc-pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "execution-log",
+      "source": "notion-os",
+      "target": "execution-log"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-os",
+      "_tgt": "company-calendar",
+      "source": "notion-os",
+      "target": "company-calendar"
+    },
+    {
+      "relation": "updates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "discord-update-bot",
+      "_tgt": "notion-os",
+      "source": "notion-os",
+      "target": "discord-update-bot"
+    },
+    {
+      "relation": "monitors",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-polling-daemon",
+      "_tgt": "notion-os",
+      "source": "notion-os",
+      "target": "notion-polling-daemon"
+    },
+    {
+      "relation": "hosts",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "discord",
+      "_tgt": "discord-update-bot",
+      "source": "discord",
+      "target": "discord-update-bot"
+    },
+    {
+      "relation": "writes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "discord-update-bot",
+      "_tgt": "execution-log",
+      "source": "discord-update-bot",
+      "target": "execution-log"
+    },
+    {
+      "relation": "monitors",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-polling-daemon",
+      "_tgt": "decision-log",
+      "source": "notion-polling-daemon",
+      "target": "decision-log"
+    },
+    {
+      "relation": "monitors",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/03_operations_coo/platform/notion-system.md",
+      "source_files": [
+        "internal/03_operations_coo/platform/notion-system.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "notion-polling-daemon",
+      "_tgt": "poc-pipeline",
+      "source": "notion-polling-daemon",
+      "target": "poc-pipeline"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "private-client-container",
+      "source": "private-ai-knowledge-layer",
+      "target": "private-client-container"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "real-time-oee-dashboard",
+      "source": "private-ai-knowledge-layer",
+      "target": "real-time-oee-dashboard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "rag-pipeline",
+      "source": "private-ai-knowledge-layer",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "unstructured-to-structured-data-pipeline",
+      "source": "private-ai-knowledge-layer",
+      "target": "unstructured-to-structured-data-pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "automated-machine-state-reporting",
+      "source": "private-ai-knowledge-layer",
+      "target": "automated-machine-state-reporting"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "llm-assisted-error-documentation",
+      "source": "private-ai-knowledge-layer",
+      "target": "llm-assisted-error-documentation"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-ai-knowledge-layer",
+      "_tgt": "local-llm-inference",
+      "source": "private-ai-knowledge-layer",
+      "target": "local-llm-inference"
+    },
+    {
+      "relation": "deploys",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "on-prem-deployment-runbook",
+      "_tgt": "private-ai-knowledge-layer",
+      "source": "private-ai-knowledge-layer",
+      "target": "on-prem-deployment-runbook"
+    },
+    {
+      "relation": "enforces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "private-client-container",
+      "_tgt": "client-data-sovereignty",
+      "source": "private-client-container",
+      "target": "client-data-sovereignty"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "private-client-container",
+      "source": "private-client-container",
+      "target": "rag-pipeline"
+    },
+    {
+      "relation": "depends-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "local-llm-inference",
+      "_tgt": "private-client-container",
+      "source": "private-client-container",
+      "target": "local-llm-inference"
+    },
+    {
+      "relation": "measures",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "real-time-oee-dashboard",
+      "_tgt": "oee",
+      "source": "real-time-oee-dashboard",
+      "target": "oee"
+    },
+    {
+      "relation": "tracks",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "real-time-oee-dashboard",
+      "_tgt": "mttr",
+      "source": "real-time-oee-dashboard",
+      "target": "mttr"
+    },
+    {
+      "relation": "validates",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "weight": 0.65,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "decfa-poc",
+      "_tgt": "real-time-oee-dashboard",
+      "source": "real-time-oee-dashboard",
+      "target": "decfa-poc"
+    },
+    {
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "paver-poc",
+      "_tgt": "real-time-oee-dashboard",
+      "source": "real-time-oee-dashboard",
+      "target": "paver-poc"
+    },
+    {
+      "relation": "reduces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "mttr",
+      "source": "rag-pipeline",
+      "target": "mttr"
+    },
+    {
+      "relation": "feeds",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "unstructured-to-structured-data-pipeline",
+      "_tgt": "rag-pipeline",
+      "source": "rag-pipeline",
+      "target": "unstructured-to-structured-data-pipeline"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "domain-ontology",
+      "source": "rag-pipeline",
+      "target": "domain-ontology"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "per-client-vector-store",
+      "source": "rag-pipeline",
+      "target": "per-client-vector-store"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "rag-pipeline",
+      "_tgt": "markov-choquet-reranking",
+      "source": "rag-pipeline",
+      "target": "markov-choquet-reranking"
+    },
+    {
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "decfa-poc",
+      "_tgt": "rag-pipeline",
+      "source": "rag-pipeline",
+      "target": "decfa-poc"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "automated-machine-state-reporting",
+      "_tgt": "oee",
+      "source": "automated-machine-state-reporting",
+      "target": "oee"
+    },
+    {
+      "relation": "validates",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "paver-poc",
+      "_tgt": "llm-assisted-error-documentation",
+      "source": "llm-assisted-error-documentation",
+      "target": "paver-poc"
+    },
+    {
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "local-llm-inference",
+      "_tgt": "s-qdora",
+      "source": "local-llm-inference",
+      "target": "s-qdora"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/01_executive_ceo/vision_mission.md",
+      "source_files": [
+        "internal/01_executive_ceo/vision_mission.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "local-llm-inference",
+      "_tgt": "speculative-decoding",
+      "source": "local-llm-inference",
+      "target": "speculative-decoding"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xcgradient-infrastructure-os",
+      "_tgt": "brand-assets-repo",
+      "source": "xcgradient-infrastructure-os",
+      "target": "brand-assets-repo"
+    },
+    {
+      "relation": "standardizes-on",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xcgradient-infrastructure-os",
+      "_tgt": "docker-standard",
+      "source": "xcgradient-infrastructure-os",
+      "target": "docker-standard"
+    },
+    {
+      "relation": "enforces",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xcgradient-infrastructure-os",
+      "_tgt": "ci-cd-pipeline",
+      "source": "xcgradient-infrastructure-os",
+      "target": "ci-cd-pipeline"
+    },
+    {
+      "relation": "uses",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "xcgradient-infrastructure-os",
+      "_tgt": "ghcr",
+      "source": "xcgradient-infrastructure-os",
+      "target": "ghcr"
+    },
+    {
+      "relation": "standardizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "docker-standard",
+      "_tgt": "xcg-bot",
+      "source": "docker-standard",
+      "target": "xcg-bot"
+    },
+    {
+      "relation": "standardizes",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "docker-standard",
+      "_tgt": "hw-management",
+      "source": "docker-standard",
+      "target": "hw-management"
+    },
+    {
+      "relation": "hosts",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "weight": 1.0,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "ghcr",
+      "_tgt": "xcg-bot",
+      "source": "ghcr",
+      "target": "xcg-bot"
+    },
+    {
+      "relation": "hosts",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "weight": 0.65,
+      "source_file": "internal/02_technical_cto/architecture/infrastructure.md",
+      "source_files": [
+        "internal/02_technical_cto/architecture/infrastructure.md"
+      ],
+      "source_count": 1,
+      "mentions": 1,
+      "_src": "ghcr",
+      "_tgt": "hw-management",
+      "source": "ghcr",
+      "target": "hw-management"
+    }
+  ],
+  "hyperedges": []
+}
